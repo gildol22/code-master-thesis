@@ -24,8 +24,6 @@ The code is written in Python and ordered in the following structure:
 5. Figures
     * contains all figures on the evolution of the method for aforementioned numerical test cases
     * contains figures of Example 4.7
-6. Results
-    * contains backup-files from the numerical experiments
 
 
 Finally, the master thesis itself is attached.
